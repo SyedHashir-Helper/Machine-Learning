@@ -11,3 +11,10 @@
 | Logistic Regression | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wmcVSn1Ea5QTzQwFWm436SFivN64FCw1#scrollTo=N7FZtKkITbNF) |
 | Newtons Method |  [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fEyRwWnSbPjrnwAR3czHLAAawCbCMj5s#scrollTo=LDf4u8DhbpGR) |
 |   |   |
+
+
+# Chapter 02
+| Item  |  Link to Colab |
+|---|---|
+| Gaussian Discriminant Analysis | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SbrQ07aUn75_ukeTvFBcViUYPxT2MiAq#scrollTo=N7FZtKkITbNF) |
+|   |   |

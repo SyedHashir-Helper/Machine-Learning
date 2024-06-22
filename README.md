@@ -13,7 +13,7 @@
 |   |   |
 
 
-# Chapter 02
+# Chapter 03
 | Item  |  Link to Colab |
 |---|---|
 | Gaussian Discriminant Analysis | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SbrQ07aUn75_ukeTvFBcViUYPxT2MiAq#scrollTo=N7FZtKkITbNF) |

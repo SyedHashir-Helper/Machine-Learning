@@ -18,3 +18,9 @@
 |---|---|
 | Gaussian Discriminant Analysis | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SbrQ07aUn75_ukeTvFBcViUYPxT2MiAq#scrollTo=N7FZtKkITbNF) |
 |   |   |
+
+# Chapter 07
+| Item  |  Link to Colab |
+|---|---|
+| Classification using NN | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uGukQ23HBL4GIoFbQOwEOpqmiUYyCyqc#scrollTo=IL3ZAQq8UCQK) |
+|   |   |
